@@ -43,13 +43,12 @@
 </head>
     
         <body>
-          <div class="erza">  
                 <div class="topnav">
                         <a class="active" href="index.html">Home</a>
                         <a href="tempatwisata.html">tempat wisata</a>
+                        <a href="#contact">Contact</a>
                         
-                        
-                        <a href="about.html">About me</a>
+                        <a href="#about">About</a>
                         <a href="https://www.youtube.com/watch?v=lX4XN_IQuMs">vidio</a>
                       </div>
                       
@@ -145,7 +144,7 @@
             </div>
 
         </div>
-      </div>
+          
 
         </body>
 </html>
